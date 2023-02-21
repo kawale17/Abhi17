@@ -1,0 +1,13 @@
+
+<suite name="Suite">
+  <test name="Test">
+    <groups>
+    <run>
+    <include  name ="Health Insurance"/>
+    </run>
+    </groups>
+    <classes>
+      <class name="TestNG.Grouping1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
